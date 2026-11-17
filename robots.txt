@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://huntsvillerodentcontrol.com/sitemap.xml
